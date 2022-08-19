@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "299032461541",
+    "project_id": "rockethelp-bf755",
+    "storage_bucket": "rockethelp-bf755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299032461541:android:0125a746fbc199704e940c",
+        "android_client_info": {
+          "package_name": "com.brunnobird.rockethelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299032461541-t5q8to7d38n40qtih2fm7r7ttneapjn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqs17v-stER12NIokvyCcWwatNdAIODHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299032461541-t5q8to7d38n40qtih2fm7r7ttneapjn3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "299032461541-j4m71971g9e5hel32c9p70nrdqur1fas.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brunnobird.rockethelp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
