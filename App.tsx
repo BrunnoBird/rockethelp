@@ -1,3 +1,4 @@
+//TODO 1h48 -> https://app.rocketseat.com.br/node/ignite-lab-3-0
 import { NativeBaseProvider, StatusBar } from "native-base";
 import { useFonts, Roboto_400Regular, Roboto_700Bold } from '@expo-google-fonts/roboto';
 import { THEME } from "./src/styles/theme";
